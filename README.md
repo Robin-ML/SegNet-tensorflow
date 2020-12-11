@@ -1,4 +1,4 @@
-# SegNet- tensorflow implementation
+# SegNet implementation in tensorflow 1.x
 The implementation for SegNet and Bayesian SegNet is based on two papers listed below: 
 
 http://arxiv.org/abs/1511.02680
